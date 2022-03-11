@@ -1,3 +1,4 @@
+# Text-based game about GRIMES
 print('Are you a real fan of Grimes?')
 
 ans = input('Are you a fan of Grimes? (yes/no): ')
